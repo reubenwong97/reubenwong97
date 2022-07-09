@@ -1,6 +1,6 @@
 ### Hi there, I'm Reuben! 👋
 
-I am currently an undergraduate student and an aspiring Artificial Intelligence and Reinforcement Learning researcher.
+I am currently an undergraduate student graduating in December 2022 and am looking for Software Engineering Positions!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reubenwong97&show_icons=true&theme=dracula)
 
